@@ -1,8 +1,10 @@
-# IT003 – SecC
+# Group Project 01 – Basic C++ Exercises
 
-![Bui Tan Thanh – Personal Card](personalCard.png)
+![Bui Tan Thanh – Personal Card](../personalCard.png)
 
 C++ basic exercises (`ex1`–`ex4`) + Python test harness.
+
+> Part of [IT003 – Nhập Môn Lập Trình](../README.md) homework repo.
 
 ## Contents
 
@@ -36,4 +38,4 @@ python test_taskC.py
 
 **Bui Tan Thanh**
 - 26531852@gm.uit.edu.vn
-- buitanhthanh.uk
+- https://buitanhthanh.uk
